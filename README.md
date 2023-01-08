@@ -9,3 +9,9 @@ Inu Yoshikawa Benchmark v1.0 has been released and can be downloaded from <a hre
 - WASD for Front, Left, Back and Right
 - SPACEBAR for Jump
 - Mouse rotation to look sideways
+
+# Minimum System Requirements:
+- GPU: Intel HD 520
+- CPU: Intel Core 2 Duo
+- 4GB RAM
+- 200MB Space free
