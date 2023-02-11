@@ -15,3 +15,5 @@ Inu Yoshikawa Benchmark v1.0 has been released and can be downloaded from <a hre
 - CPU: Intel Core 2 Duo
 - 4GB RAM
 - 200MB Space free
+
+© Dragon Realms - [Ravanger101](https://github.com/Ravanger101)
